@@ -14,8 +14,8 @@ html,body{
 }
 .top{
     width: 100%;
-    min-height: 60vh;
-    background-image: url(https://burst.shopifycdn.com/photos/icy-summit-of-a-mountain-on-a-frosty-night.jpg?width=1000&format=pjpg&exif=0&iptc=0);
+    min-height: 65vh;
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/701/726/desktop-wallpaper-of-the-jungle-book-cartoon-pics-full-for-ipad-mowgli.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -41,10 +41,10 @@ html,body{
 
 }
 .text .image{
-    background-image: url(https://rukminim2.flixcart.com/image/850/1000/l1mh7rk0/poster/b/s/j/medium-famous-cartoon-poster-for-kids-shinchan-cartoon-wall-original-imagd5fcasqbqfcg.jpeg?q=90&crop=false);
+    background-image: url(https://i.pinimg.com/originals/a5/d1/5d/a5d15d78d66b77ce9fb071e192bb2e96.png);
     background-size: cover;
     background-position: cover;
-    height: 300px;
+    height: 250px;
     width: 220px;
 }
 #rtext{
@@ -64,7 +64,7 @@ html,body{
 .b1{
  width: 30%;
  min-height: inherit;
- background-image: url(https://www.fao.org/images/newsroomlibraries/breafing-notes/36949400340_030e4ae5f9_oab4ccd35-fd6a-4230-bd2e-f0113f50357d.jpg?sfvrsn=426ca1c_3);
+ background-image: url(https://wallpapers.com/images/hd/the-jungle-book-baloo-and-mowgli-lrj775vox5xap0e0.jpg);
  background-size: cover;
  background-position: center;
 }
@@ -86,7 +86,7 @@ html,body{
 .b2 .up{
     width: 100%;
     min-height: 20vh;
-    background-image: url(https://www.axisbank.com/images/default-source/progress-with-us_new/cities-in-america.jpg);
+    background-image: url(https://i.ytimg.com/vi/HBqkhTbxkH8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgYShlMA8=&rs=AOn4CLBpmb-dIrmYDg4-naC7Juqs5LD5yA);
     background-size: cover;
     background-position: center;
 }
@@ -109,13 +109,17 @@ html,body{
         position: relative;
         width: 100%;
         min-height: 20vh;
-        background-image: url(https://cdn.pixabay.com/photo/2021/03/02/16/34/woman-6063087_640.jpg);
+        background-image: url(https://i.ytimg.com/vi/FZOFm7GyWR8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBO4DGd3aMdrglkSv5QzSIfR_vdKA);
         background-color: rgba(255,255,255,0.344);
     }
-.b3{
+    .b2 button a{
+        color: rgb(238, 0, 0);
+        border: 0.5px solid rgb(6, 10, 251);
+    }
+  .b3{
     width: 40%;
     min-height: inherit;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7LUom93uX0-Fz3-rhMIe9BkzkyWsqIIlZbw&s);
+    background-image: url(https://static1.cbrimages.com/wordpress/wp-content/uploads/spinoff/2016/02/jungle-book.jpg);
    background-size: cover;
     background-position: center;
 }
@@ -126,6 +130,8 @@ html,body{
     width: 50%;
     height: 100%;
     padding: 4vh 3vh;
+    color: aliceblue;
+ 
 }
 .b3 .overlay .p{
     padding:1.2vh;
